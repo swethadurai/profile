@@ -16,9 +16,13 @@
 |   1|  SWE|
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top languages</summary>
 
-YOUR TABLE
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 </details>
 
