@@ -14,3 +14,10 @@
 | ID | NAME|
 |---:|-----|
 |   1|  SWE|
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
